@@ -6,6 +6,8 @@ metadata:
   tags:
     - react
     - fintech
+  annotations:
+    github.com/project-slug: karimshaik-cmd/fintech
 spec:
   type: service
   lifecycle: experimental
