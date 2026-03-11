@@ -1,0 +1,4 @@
+site_name: Fintech Dashboard Docs
+
+nav:
+  - Home: index.md
