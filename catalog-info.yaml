@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fintech-dashboard
+  description: Fintech dashboard demo application
+  tags:
+    - react
+    - fintech
+spec:
+  type: service
+  lifecycle: experimental
+  owner: user:guest
