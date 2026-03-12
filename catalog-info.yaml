@@ -10,7 +10,7 @@ metadata:
     github.com/project-slug: karimshaik-cmd/fintech
     backstage.io/source-location: url:https://github.com/karimshaik-cmd/fintech
     backstage.io/techdocs-ref: url:https://github.com/karimshaik-cmd/fintech
-    jenkins.io/job-full-name: default:fintech-dashboard
+    jenkins.io/job-full-name: default/fintech-dashboard
 spec:
   type: service
   lifecycle: experimental
